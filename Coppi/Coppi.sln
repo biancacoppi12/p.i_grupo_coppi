@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Coppi", "..\..\WebSites\Coppi", "{AA011633-AD6A-46FF-AFBC-2765F1724CF7}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = "SAK"
+		SccAuxPath = "SAK"
+		SccLocalPath = "SAK"
+		SccProvider = "SAK"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_53107"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\Coppi\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53107\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_53107"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\Coppi\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53107\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53107"
+		SlnRelativePath = "..\..\WebSites\Coppi\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA011633-AD6A-46FF-AFBC-2765F1724CF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA011633-AD6A-46FF-AFBC-2765F1724CF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://andreluizferraz.visualstudio.com/
+		SccLocalPath0 = .
+		SccWebProject1 = true
+		SccProjectUniqueName1 = ..\\..\\WebSites\\Coppi
+		SccProjectName1 = Coppi
+		SccLocalPath1 = ..\\..\\WebSites\\Coppi
+		SccProjectEnlistmentChoice1 = 2
+	EndGlobalSection
+EndGlobal
